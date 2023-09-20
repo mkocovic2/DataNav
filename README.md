@@ -1,5 +1,5 @@
 # DataNav
-DataNav is a Python application that allows users to display databases and tables from a chosen server.
+DataNav is a Python application that allows users to display databases and tables from a chosen server. This program is primarily used for server testing.
 
 # Prerequisites
 - Python needs to be installed before you can run the program. 
@@ -12,4 +12,6 @@ DataNav is a Python application that allows users to display databases and table
 5. Once the file runs, an application should open up.
 
 # How to use
-1. 
+1. Type in all the required server information and press connect.
+2. If successfully connected, your databases should appear in the white box below.
+3. 
